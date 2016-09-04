@@ -1,6 +1,8 @@
 # leagueonlinux
 Run League of Legends on Linux without depending on playonlinux
 
+## Work in progress nothing to see here, move along
+
 ## Why this program was made
 
 PlayOnLinux frustrates me. The League of Legends PlayOnLinux install script is owned by an inactive maintainer, so nobody can easily install League of Legends through the program that is supposed to make installing games easy. Instead, players must browse the horribly formatted, information overload that is the [PlayOnLinux League of Legends app page](https://www.playonlinux.com/en/app-1135-League_Of_Legends.html).
