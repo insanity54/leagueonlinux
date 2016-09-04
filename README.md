@@ -12,7 +12,11 @@ leagueonlinux is an attempt at making a turnkey solution to installing League of
 
 
 
-# Dependencies
+# Process
 
-wine
-ia32-libs
+sudo dpkg --add-architecture i386
+sudo add-apt-repository ppa:wine/wine-builds
+sudo apt-get update
+sudo apt-get install -y xterm wine lib32z1 winetricks wine1.6 gnome-exe-thumbnailer ttf-mscorefonts-installer fonts-horai-umefont fonts-unfonts-core ttf-wqy-microhei winbind
+sudo apt-get update
+
